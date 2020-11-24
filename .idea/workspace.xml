@@ -8,20 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6aee35-e041-421e-8c19-9af10e4ee7e1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p189_rotate/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p419_countBattleships/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p598/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p661_imageSmoother/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p11_container_with_most_water/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p12_integer_to_roman/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/palindrome_number/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/regular_expression_matching/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/string2number/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leetcode_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/leetcode_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/leetcode_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/leetcode_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p48/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p498/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p566_matrixReshape/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p57/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p73/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/dynamic/array/p509_fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/everyday/p406/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/everyday/p514/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p508_findFrequentTreeSum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p572_isSubTree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p617/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myleetcode/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/myleetcode/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myleetcode/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/myleetcode/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myleetcode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/myleetcode/.gradle/" />
     <ignored path="$PROJECT_DIR$/myleetcode/build/" />
@@ -32,6 +32,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$Solution__3_.ic" NAME="Solution (3) Coverage Results" MODIFIED="1604488464862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.shusx.array.p57.*</FILTER>
+    </SUITE>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/myleetcode">
@@ -48,19 +53,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p4_medianoftwosortedarrays/Solution.java">
+        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p617/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="241">
+              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/palindrome_number/Solution.java">
+        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p508_findFrequentTreeSum/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="318">
+              <caret line="76" column="57" lean-forward="true" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,77 +74,46 @@
         </entry>
       </file>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p118/Solution.java">
+        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p572_isSubTree/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p119/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p661_imageSmoother/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p598/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p419_countBattleships/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p189_rotate/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="79" column="26" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p11_container_with_most_water/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="43">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
               <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p12_integer_to_roman/Solution.java">
+      <file leaf-file-name="p509_fib.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/dynamic/array/p509_fib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p563/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+                <element signature="e#1441#1442#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -468,6 +442,18 @@
         <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p598/Solution.java" />
         <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p419_countBattleships/Solution.java" />
         <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p189_rotate/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p57/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p498/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p566_matrixReshape/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p48/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p73/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/everyday/p514/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/everyday/p406/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p617/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p508_findFrequentTreeSum/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p572_isSubTree/Solution.java" />
+        <option value="$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/dynamic/array/p509_fib.java" />
       </list>
     </option>
   </component>
@@ -487,10 +473,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1827" />
-    <option name="y" value="35" />
-    <option name="width" value="1427" />
-    <option name="height" value="1017" />
+    <option name="y" value="97" />
+    <option name="width" value="1455" />
+    <option name="height" value="791" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -498,6 +483,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -538,7 +526,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shusx" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -547,26 +535,13 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shusx" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="p189_rotate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myleetcode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="shusx" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="p419_countBattleships" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -579,6 +554,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
@@ -593,58 +569,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shusx.array.p419_countBattleships.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.shusx.everyday.p514.Solution" />
       <module name="leetcode_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shusx.array.p419_countBattleships.*" />
+          <option name="PATTERN" value="com.shusx.everyday.p514.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shusx.array.p189_rotate.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.shusx.tree.p508_findFrequentTreeSum.Solution" />
       <module name="leetcode_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shusx.array.p189_rotate.*" />
+          <option name="PATTERN" value="com.shusx.tree.p508_findFrequentTreeSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shusx.p12_integer_to_roman.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shusx.tree.p572_isSubTree.Solution" />
       <module name="leetcode_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shusx.p12_integer_to_roman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shusx.array.p119.Solution" />
-      <module name="leetcode_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shusx.array.p119.*" />
+          <option name="PATTERN" value="com.shusx.tree.p572_isSubTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shusx.array.p598.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.shusx.array.p73.Solution" />
       <module name="leetcode_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.shusx.array.p598.*" />
+          <option name="PATTERN" value="com.shusx.array.p73.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shusx.tree.TreeNode" />
+      <module name="leetcode_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shusx.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -691,19 +667,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.TreeNode" />
+      <item itemvalue="Application.Solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.TreeNode" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -725,14 +701,21 @@
       <workItem from="1593329036310" duration="11172000" />
       <workItem from="1603853181525" duration="4238000" />
       <workItem from="1603876115221" duration="6448000" />
+      <workItem from="1604478531475" duration="10315000" />
+      <workItem from="1604569282204" duration="3841000" />
+      <workItem from="1604655325668" duration="1976000" />
+      <workItem from="1605147760008" duration="424000" />
+      <workItem from="1605148257697" duration="1957000" />
+      <workItem from="1605521294358" duration="1078000" />
+      <workItem from="1606117558412" duration="7103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33727000" />
+    <option name="totallyTimeSpent" value="60421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1827" y="35" width="1427" height="1017" extended-state="0" />
+    <frame x="0" y="97" width="1455" height="791" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -742,29 +725,30 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13574007" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13163482" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13489409" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18926975" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32954547" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1719243" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26498196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23849964" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31296572" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32994187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -788,60 +772,29 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p498/Solution.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p73/Solution.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p508_findFrequentTreeSum/Solution.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p4_medianoftwosortedarrays/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/palindrome_number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p11_container_with_most_water/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/string2number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="42" lean-forward="true" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/regular_expression_matching/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p12_integer_to_roman/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1768">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myleetcode/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -860,63 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p2_addtwonumbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p3_longestsubstring/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p4_medianoftwosortedarrays/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/string2number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/p1_twosum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/threesum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,10 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,9 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,10 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,31 +972,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p661_imageSmoother/Solution.java">
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p57/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="-208">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p598/Solution.java">
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p566_matrixReshape/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="60" column="37" lean-forward="true" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        <state relative-caret-position="344">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/everyday/p406/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/everyday/p514/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p73/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p48/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p498/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p419_countBattleships/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        <state relative-caret-position="344">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p598/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p661_imageSmoother/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/array/p189_rotate/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="79" column="26" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="26" />
+        <state relative-caret-position="344">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p617/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p563/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p508_findFrequentTreeSum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="76" column="57" lean-forward="true" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/tree/p572_isSubTree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myleetcode/src/main/java/com/shusx/dynamic/array/p509_fib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
