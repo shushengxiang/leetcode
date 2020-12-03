@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leetcode.iml" filepath="$PROJECT_DIR$/.idea/modules/leetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leetcode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/leetcode_main.iml" group="leetcode" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leetcode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/leetcode_test.iml" group="leetcode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leetcode.main.iml" filepath="$PROJECT_DIR$/.idea/modules/leetcode.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/leetcode.test.iml" filepath="$PROJECT_DIR$/.idea/modules/leetcode.test.iml" />
     </modules>
   </component>
 </project>
